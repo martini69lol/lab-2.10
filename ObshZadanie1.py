@@ -15,4 +15,4 @@ def geometric_zn(*args):
 
 
 if __name__ == "__main__":
-    print(geometric_zn(1, 3, 2))
+    print(geometric_zn(3, 3, 2))
